@@ -14,8 +14,5 @@ ssssss
 dddddd
 33333333
 aiaiiaiaiaiia
-<<<<<<< HEAD
 888888888
-=======
 
->>>>>>> dev
